@@ -11,3 +11,7 @@ rand = "0.3.0"
 time = "0.1.12"
 regex = "0.1.41"
 
+
+[[bin]]
+name = "main"
+path = "main.rs"
